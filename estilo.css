@@ -43,7 +43,7 @@ header {
   a{
       color: aliceblue;
   }
-  
+  /* --------  1 TELA 'HOMME'  -------- */
 #imagem_fundo {
     background: url("https://i.ibb.co/X5t87YZ/Rio-Araguaia.jpg");
     background-size: cover;
@@ -74,6 +74,7 @@ header {
     border: 1px white solid;
     padding: 10px 20px 10px 20px ;
 }
+/* --------  PRJETO E OBJETIVO  -------- */
 .icone {
     align-items: center;
     width: 20%;
@@ -120,6 +121,35 @@ h2 {
 h3{
     color: darkblue;
 }
+/* --------  VIDEOS  -------- */
+#videos{
+    background-color:#8a8989 ;
+    height: 100%;
+    width: 100%;
+}
+.v1{    
+    
+    float:left ;
+    margin: 10px;
+}
+.v2{
+    background-color:#8a8989 ;
+    float: right;
+    margin: 10px;
+
+}
+/* sobre--------*/
+#sobre{
+    display: block;
+
+}
+.imgde{
+    width: 600px;
+    height: 302px;
+    float: right;
+    
+}
+/* --------  PE DO SITE  -------- */
 footer{
     overflow: hidden;
     clear: both;
