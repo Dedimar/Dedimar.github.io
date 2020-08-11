@@ -166,7 +166,7 @@ footer{
     width: 50px;
 }
 /* Responsivel para moveis */
-@media scre and(max-width: 500px){
+@media scrool and(max-width: 500px){
     #menu{
         transition: cubic-bezier(0.445, 0.05, 0.55, 0.95);
     }
